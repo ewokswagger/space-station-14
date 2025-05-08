@@ -2,7 +2,7 @@ using Robust.Shared.Audio;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Serialization.TypeSerializers.Implementations.Custom.Prototype.Array;
 
-namespace Content.Shared.Polymorph;
+namespace Content.Server.Polymorph;
 
 /// <summary>
 /// Polymorphs generally describe any type of transformation that can be applied to an entity.

@@ -1,7 +1,7 @@
 ﻿using Content.Shared.Actions;
 using Robust.Shared.Prototypes;
 
-namespace Content.Shared.Polymorph;
+namespace Content.Server.Polymorph;
 
 public sealed partial class PolymorphActionEvent : InstantActionEvent
 {
